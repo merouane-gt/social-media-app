@@ -1,0 +1,36 @@
+.all-page {
+    text-align: center;
+    padding: 2rem;
+    background-color: #fef6fb;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #4b3193, #6973d2);
+  }
+  
+  .profile-card {
+    margin-top: 1rem;
+    width: 30%;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+  
+  .profile-pic {
+    width: 100px;
+    border-radius: 50%;
+  }
+  
+  .feed {
+    margin-top: 2rem;
+    background : linear-gradient(135deg, #4d9aca, #6973d2);
+    border-radius: 20px;
+  }
+  
+  .post-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin: 0 auto;
+    width: 300px;
+    border-radius: 12px;
+    background-color: #2023b5;
+    color: white;
+  }
+  
