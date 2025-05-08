@@ -11,7 +11,7 @@
 ### Running the project locally
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone https://github.com/merouane-gt/social-media-app.git
     ```
 
 2. Navigate into the project folder:
@@ -35,8 +35,6 @@
 
 ## Features Implemented
 -User Profiles: Users can create and update their profiles with a profile picture and bio.
-
--Post Creation: Users can post cat pictures, with the option to add captions and tags.
 
 -Like and Comment: Users can like posts and leave comments on them.
 
