@@ -60,7 +60,7 @@ align-items: center;
 filter: drop-shadow(10 10 10px #000);
 filter: grayscale(0.2);
 gap: 10px;
-background: linear-gradient(135deg, #4d9aca, #6973d2);
+background: linear-gradient(135deg, #751cb19a, #6973d2);
 padding: 20px 20px;
 animation: gradientShift 10s ease infinite;
 }
@@ -105,7 +105,7 @@ transform: scale(1.1);
  display: flex;
   flex-direction: column;
   align-items: center;
-  background: linear-gradient(135deg, #2b50a7, #22467c);
+  background: linear-gradient(135deg, #5b1c92, #22467c);
 filter: drop-shadow(10 10 10px #577aa4);
  gap: 10px;
   text-align: center;

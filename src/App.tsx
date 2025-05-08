@@ -1,6 +1,7 @@
 import 'bootstrap/dist/css/bootstrap.css';
 import { Headerbar } from './assets/signup';
 import { Routes, Route } from 'react-router-dom';
+import UserProfile from './assets/userprofile';
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
        
       
        <Route path="/" element={<Headerbar />} />
+       <Route path="/profile/:userId" element={<UserProfile />} />
       </Routes>
    
       

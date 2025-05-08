@@ -14,7 +14,7 @@ function Headerbar() {
     <>
      <div className="header">
         <h1>Meow!</h1>
-        <p>Welcome to icat 😺</p>
+        <p >Welcome to icat 😺</p>
         </div>
     <div className="card">
       <img
@@ -24,7 +24,7 @@ function Headerbar() {
         alt="logo"
       />
       <h5 className="app-name">icat</h5>
-      <p className="app-text">
+      <p className="app-text" style={{ marginTop: '10px', fontSize: '18px', fontWeight: 'bold' }}>
         Join a cozy space to share your favorite moments, meet new friends. Sign up and let the cuteness begin! 💜😺
       </p>
       <p id="sign-up-text">sign up</p>
